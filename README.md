@@ -143,7 +143,4 @@ Possible enhancements for this project include:
 **Vansh Suvarna**
 BSc Computer Science
 Data Science | Machine Learning | Analytics
-:
 
-* adding **visual graphs directly into the README**
-* adding **GitHub badges (very impressive for recruiters)**.
